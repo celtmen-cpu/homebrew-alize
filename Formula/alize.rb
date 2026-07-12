@@ -6,7 +6,7 @@ class Alize < Formula
   license "Proprietary"
 
   def install
-    bin.install "alize"
+    bin.install "alize-0.0.2"
   end
 
   test do
