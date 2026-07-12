@@ -1,9 +1,9 @@
 class Alize < Formula
   desc "Interpreted programming language Alizé"
   homepage "https://github.com/celtmen-cpu/Alize"
-  url "https://github.com/celtmen-cpu/Alize/archive/refs/tags/v0.1.0.tar.gz"
+  url "https://github.com/celtmen-cpu/Alize/releases/download/0.0.2/Alize-0.0.2.tar.gz"
   sha256 "SHA256_DE_L_ARCHIVE"
-  license "MIT"
+  license "Freeware"
 
   def install
     libexec.install Dir["*"]
