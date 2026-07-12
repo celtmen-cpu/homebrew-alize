@@ -11,8 +11,15 @@ brew install alize
 ```
 
 ## Utilisation
-
+```bash
 alize --help donne toutes les commandes
+```
+```bash
 alize --version : affiche la version
+```
+```bash
 alize --update: mise a jour 
+```
+```bash
 alize fichier.alz : interpretation de ce fichier
+```
