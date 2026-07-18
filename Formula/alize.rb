@@ -1,8 +1,8 @@
 class Alize < Formula
   desc "Interpreted programming language Alizé"
   homepage "https://github.com/celtmen-cpu/homebrew-alize"
-  url "https://github.com/celtmen-cpu/homebrew-alize/releases/download/0.0.8/alize-v0.0.8.tar.gz"
-  sha256 "5dcfb0c1db9c7c9f4563599071bc67a4e1b4bf632868cd9305401fd4a90bb97c"
+  url "https://github.com/celtmen-cpu/homebrew-alize/releases/download/0.0.9/alize-v0.0.9.tar.gz"
+  sha256 "63d204a124b51e72ef4ca903d8d515874bed128c299fa31c098a3494226b051b"
   license "MIT"
 
   def install
